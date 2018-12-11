@@ -8,6 +8,14 @@ Configuration:
 1. create a directory anywhere called 'wormhole'.
 2. open config.conf and write the full path to wormhole directory.
 3. configure paths to where you would like files to go.
+4. run Psyphen.vbs
+
+5. optionally add Psyphen.vbs shortcut to startup:
+	1. Press: WinKey+R
+	2. Type: shell:startup
+	3. Press: Enter
+	4. Copy+Paste 'Psyphen.vbs - Shortcut' into startup.
+	5. reboot.
 
 
 Notes:
